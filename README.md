@@ -6,7 +6,7 @@
 
 Чтобы скачать репозиторий, введите команду (Linux):
 
-#### git clone https://github.com/C0derPenguin/diplom_project.git
+#### git clone https://github.com/NewLifeOs/TransFile.git
 
 __________________________________________________________________________________________
 
